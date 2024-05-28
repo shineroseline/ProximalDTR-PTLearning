@@ -6,7 +6,7 @@ importFrom("stats", pnorm, cancor, cov, dist, weighted.mean, sd)
 importFrom("plot3D", mesh)
 importFrom("rgl", surface3d, axis3d, mtext3d, box3d)
 importFrom("MASS", ginv, mvrnorm)
-importFrom("SVMW", svm)
+importFrom("e1071", svm)
 importFrom("caret", createFolds)
 
 
