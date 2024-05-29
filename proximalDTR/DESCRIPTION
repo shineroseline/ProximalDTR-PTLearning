@@ -5,9 +5,10 @@ Version: 0.6.1
 Author: Wenzhuo Zhou, Ruoqing Zhu, Annie Qu
 Maintainer: Ruoqing Zhu <teazrq@gmail.com>
 Description: Estimating DTR in infinite horizon
-License: GPL (>= 2)
+License: GPL (>=3)
 Encoding: UTF-8
 LazyData: TRUE
+Depends: R (>= 3.5.0)
 RoxygenNote: 6.1.0
 NeedsCompilation: yes
 Repository: CRAN
