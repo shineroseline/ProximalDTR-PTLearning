@@ -2,8 +2,8 @@ Package: proximalDTR
 Type: Package
 Title: A proximal approach for DTR estimation
 Version: 0.6.1
-Author: Wenzhuo Zhou, Ruoqing Zhu, Annie Qu
-Maintainer: Ruoqing Zhu <teazrq@gmail.com>
+Author: Roseline
+Maintainer: Roseline <roselinemoronkola@gmail.com>
 Description: Estimating DTR in infinite horizon
 License: GPL (>=3)
 Encoding: UTF-8
